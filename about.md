@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: About Ale!
 permalink: /about/
 ---
 
-Some information about you!
+My name is Alejandra. This is pronounced Ale (as in pale ale) - jan (as in January) - dra (this part is silent, because my name is French).
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I am the WORST person evarr! hire me! 
